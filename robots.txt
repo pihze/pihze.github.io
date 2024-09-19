@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pihze.github.io/qJi/sitemap.qJi.gz
